@@ -1,0 +1,6 @@
+{
+  "schema": 1,
+  "ads": true,
+  "interstitials": true,
+  "store": true
+}
