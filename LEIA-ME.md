@@ -5,7 +5,7 @@ Site público do jogo, publicado pelo GitHub Pages (ADR 0024 do repositório do 
 | Arquivo | Para quê |
 |---|---|
 | `index.md` | A página inicial, com os links da política e dos termos |
-| `politica-de-privacidade.md` · `termos-de-uso.md` | Entram depois do parecer jurídico. São cópias geradas pelo `tools/publicar-site.sh` do repositório do jogo, onde fica o texto-fonte. **Não editar aqui:** editar lá e publicar de novo |
+| `politica-de-privacidade.md` · `termos-de-uso.md` | Cópias geradas pelo `tools/publicar-site.sh` do repositório do jogo, onde fica o texto-fonte. **Não editar aqui:** editar lá e publicar de novo |
 | `config.json` | Os interruptores de emergência que o jogo baixa depois da tela de idade |
 
 ## Os interruptores (`config.json`)
