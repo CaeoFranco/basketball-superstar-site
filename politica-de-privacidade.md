@@ -1,6 +1,6 @@
 # Política de Privacidade — Basketball Superstar - Basquete
 
-**Última atualização:** 11 de outubro de 2026
+**Última atualização:** 16 de outubro de 2026
 
 Esta política explica quais dados o jogo **Basketball Superstar - Basquete** usa, para quê, com quem eles são compartilhados e quais são os seus direitos. O jogo é para pessoas de todas as idades que gostam de basquete, inclusive crianças. Por isso ele trata de forma mais protegida os dados de quem tem menos de 18 anos.
 
@@ -53,8 +53,8 @@ O jogo mostra anúncios por meio do **Unity LevelPlay** (Unity Technologies) e d
 
 - **Anúncios que você escolhe ver** (gemas grátis, partes de itens e "continuar"): são sempre opcionais e dão uma recompensa.
 - **Anúncios entre as fases:** aparecem no máximo um a cada 2 minutos, a partir da fase 5, e nunca durante a partida.
-- Para menores de 18 anos, os anúncios **não são personalizados**. Para menores de 13, os serviços de anúncio são avisados de que se trata de uma criança e não usam o identificador de publicidade.
-- Os serviços de anúncio podem coletar dados técnicos do aparelho (modelo, sistema, idioma, endereço IP aproximado) para entregar e medir os anúncios, conforme as políticas deles. Política do Unity: https://unity.com/legal/game-player-and-app-user-privacy-policy
+- Para **todas as idades**, os anúncios **não são personalizados**. O jogo avisa os serviços de anúncio que todo jogador, de qualquer idade, deve receber o tratamento dado a crianças, e **não permite o uso do identificador de publicidade** do celular.
+- Os serviços de anúncio podem coletar dados técnicos do aparelho (modelo, sistema, idioma, endereço IP aproximado), um identificador do aparelho limitado a este jogo e às outras apps do mesmo desenvolvedor (app set ID) e a sua interação com os anúncios, para entregar e medir os anúncios e evitar fraude, conforme as políticas deles. Política do Unity: https://unity.com/legal/game-player-and-app-user-privacy-policy
 - A compra **"Sem anúncios"** tira os anúncios que aparecem sozinhos entre as fases. Os anúncios que você escolhe ver continuam, com as recompensas.
 
 ## 6. Compras
